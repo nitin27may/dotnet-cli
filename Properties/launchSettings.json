@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CustomUtility": {
+      "commandName": "Project",
+      "commandLineArgs": "get-user --networkid NBITNKS"
+    }
+  }
+}
